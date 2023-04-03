@@ -24,7 +24,7 @@ Not only does RelayChain simplify the bridging process, it also gamifies it. Eac
 
 ### **How It Works**
 
-The new v3 design incorporates a bridge aggregator and a single-transaction bridge & swap function. The aggregator connects users with liquidity from top bridging protocols—at launch, Synapse, Multichain, Celer, and Hop—and always selects the most economical path. The bridge & swap function is built on Squid on Axelar. The result is a faster, more secure, and cheaper bridging process.
+The new v3 design incorporates a bridge aggregator and a single-transaction bridge & swap function. The aggregator connects users with liquidity from top bridging protocols—at launch, Stargate, Synapse, Multichain, Celer, and Hop—and always selects the most economical path. The bridge & swap function is built on Squid on Axelar. The result is a faster, more secure, and cheaper bridging process.
 
 Users can also swap directly through the new UI.
 
