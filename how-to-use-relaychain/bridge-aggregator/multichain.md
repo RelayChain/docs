@@ -1,0 +1,3 @@
+# Multichain
+
+The Multichain Bridge uses a combination of smart contracts and oracles to facilitate cross-chain transactions and to ensure that asset transfers are executed in a transparent and secure way. The protocol supports a range of different blockchain networks, including Ethereum, Binance Smart Chain, Polygon, and Avalanche, among others. The Multichain Bridge helps to increase the interoperability between different blockchain networks, enabling the creation of more complex and interoperable decentralized applications. To learn more about the Multichain Bridge, you can visit their website at [https://multichain.xyz/](https://multichain.xyz/).

@@ -1,0 +1,3 @@
+# Synapse
+
+The Synapse Bridge is built on top of the Polkadot network and uses the Substrate framework to enable cross-chain asset transfers using the Polkadot RelayChain. The protocol is designed to be scalable, flexible, and interoperable, supporting a range of different blockchain networks, including Ethereum, Binance Smart Chain, and others. The Synapse Bridge helps to unlock the potential of decentralized finance (DeFi) applications by enabling the exchange of assets between different blockchain ecosystems. To learn more about the Synapse Bridge, you can visit their website at [https://synapsefoundation.io/](https://synapsefoundation.io/).
