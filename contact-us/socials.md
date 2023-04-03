@@ -4,4 +4,4 @@
 
 ## [Twitter](https://twitter.com/relay\_chain)
 
-## ``[`Discord`](https://discord.gg/relaychain)``
+## [Discord ](https://discord.com/invite/relaychain)
