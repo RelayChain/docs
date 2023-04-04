@@ -14,6 +14,7 @@
     * [Multichain](how-to-use-relaychain/bridge-aggregator/multichain.md)
   * [Bridge & Swap](how-to-use-relaychain/bridge-and-swap/README.md)
     * [Synapse](how-to-use-relaychain/bridge-and-swap/synapse.md)
+    * [LI.FI](how-to-use-relaychain/bridge-and-swap/li.fi.md)
     * [Squid](how-to-use-relaychain/bridge-and-swap/squid.md)
   * [Stake Relay](how-to-use-relaychain/stake-relay.md)
 * [🚀┃Growth & Gamification](growth-and-gamification/README.md)
