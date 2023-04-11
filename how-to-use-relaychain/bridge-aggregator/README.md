@@ -16,11 +16,36 @@ Once you’ve chosen your token and chain, the RelayChain UI will inform you whi
 
 ### How many chains and sources of liquidity does Relay access?
 
-Users have access to 17 bridges and 28 exchanges. By utilizing these top bridges and exchanges, Relay can offer comprehensive access to various liquidity sources, providing users with a seamless and efficient trading experience. Below is a list of the bridges and exchanges that Relay can access:
+Users have access to 25 chains, 17 bridges, and 28 exchanges. By utilizing these top bridges and exchanges, Relay can offer comprehensive access to various liquidity sources, providing users with a seamless and efficient trading experience. Below is a list of the bridges and exchanges that Relay can access:
 
 ### Chains
 
-
+| zkSync Era      | [https://zksync.io/](https://zksync.io/)                                                     |
+| --------------- | -------------------------------------------------------------------------------------------- |
+| Avalanche       | [https://www.avax.com/](https://www.avax.com/)                                               |
+| Optimism        | [https://www.optimism.io/](https://www.optimism.io/)                                         |
+| Bitgert         | [https://bitgert.com/](https://bitgert.com/)                                                 |
+| Arbitrum One    | [https://arbitrum.io/](https://arbitrum.io/)                                                 |
+| Gnosis          | [https://www.gnosis.io/](https://www.gnosis.io/)                                             |
+| Velas           | [https://velas.com/en](https://velas.com/en)                                                 |
+| Tomochain       | [https://tomochain.com/](https://tomochain.com/)                                             |
+| ThunderCore     | [https://www.thundercore.com/](https://www.thundercore.com/)                                 |
+| oasis chain     | [https://oasischain.io/en.html](https://oasischain.io/en.html)                               |
+| KardiaChain     | [https://kardiachain.io/](https://kardiachain.io/)                                           |
+| KCC             | [https://www.kcc.io/](https://www.kcc.io/)                                                   |
+| Hoo Smart Chain | [https://hoosmartchain.com/](https://hoosmartchain.com/)                                     |
+| GateChain       | [https://www.gatechain.io/](https://www.gatechain.io/)                                       |
+| Fuse            | [https://www.fuse.io/](https://www.fuse.io/)                                                 |
+| IoTex           | [https://iotex.io/](https://iotex.io/)                                                       |
+| Moonbeam        | [https://moonbeam.network/](https://moonbeam.network/)                                       |
+| MultiVAC        | [https://www.mtv.ac/](https://www.mtv.ac/)                                                   |
+| Moonriver       | [https://moonbeam.network/networks/moonriver/](https://moonbeam.network/networks/moonriver/) |
+| Metis           | [https://www.metis.io/](https://www.metis.io/)                                               |
+| Fantom          | [https://fantom.foundation/](https://fantom.foundation/)                                     |
+| Polygon         | [https://polygon.technology/](https://polygon.technology/)                                   |
+| BSC Smart Chain | [https://www.binance.com/en](https://www.binance.com/en)                                     |
+| Cronos          | [https://cronos.org/](https://cronos.org/)                                                   |
+| Ethereum        | [https://ethereum.org/en/](https://ethereum.org/en/)                                         |
 
 ### Bridges&#x20;
 
@@ -30,33 +55,33 @@ Users have access to 17 bridges and 28 exchanges. By utilizing these top bridges
 
 ### Exchanges
 
-| 0x         | [https://www.0x.org/](https://www.0x.org/)                                     |
-| ---------- | ------------------------------------------------------------------------------ |
 | 1inch      | [https://1inch.io/](https://1inch.io/)                                         |
+| ---------- | ------------------------------------------------------------------------------ |
+| sushiswap  | [https://www.sushi.com/](https://www.sushi.com/)                               |
 | paraswap   | [https://www.paraswap.io/](https://www.paraswap.io/)                           |
 | openocean  | [https://openocean.finance/](https://openocean.finance/)                       |
+| 0x         | [https://www.0x.org/](https://www.0x.org/)                                     |
 | dodo       | [https://dodoex.io/](https://dodoex.io/)                                       |
 | uniswapv2  | [https://uniswap.org/](https://uniswap.org/)                                   |
-| sushiswap  | [https://www.sushi.com/](https://www.sushi.com/)                               |
 | quickswap  | [https://quickswap.exchange/](https://quickswap.exchange/)                     |
 | honeyswap  | [https://honeyswap.org/](https://honeyswap.org/)                               |
 | pancake    | [https://pancakeswap.finance/](https://pancakeswap.finance/)                   |
+| solarbeam  | [https://solarbeam.io/](https://solarbeam.io/)                                 |
+| Wagyuswap  | [https://exchange.wagyuswap.app/swap](https://exchange.wagyuswap.app/swap)     |
 | spiritswap | [https://www.spiritswap.finance/](https://www.spiritswap.finance/)             |
 | soulswap   | [https://soulswap.finance/](https://soulswap.finance/)                         |
 | pangolin   | [https://www.pangolin.exchange/](https://www.pangolin.exchange/)               |
-| solarbeam  | [https://solarbeam.io/](https://solarbeam.io/)                                 |
+| evmoswap   | [https://app.evmoswap.org/swap](https://app.evmoswap.org/swap)                 |
 | stellswap  | [https://stellaswap.com/](https://stellaswap.com/)                             |
 | beamswap   | [https://beamswap.io/](https://beamswap.io/)                                   |
 | ubeswap    | [https://ubeswap.org/](https://ubeswap.org/)                                   |
+| Trisolaris | [https://www.trisolaris.io/#/swap](https://www.trisolaris.io/#/swap)           |
 | cronaswap  | [https://app.cronaswap.org/en/swap](https://app.cronaswap.org/en/swap)         |
 | diffusion  | [https://app.diffusion.fi/#/swap](https://app.diffusion.fi/#/swap)             |
 | cronus     | [https://trading.cronusfinancexyz.com/](https://trading.cronusfinancexyz.com/) |
-| evmoswap   | [https://app.evmoswap.org/swap](https://app.evmoswap.org/swap)                 |
+| Swapr      | [https://swapr.eth.limo/](https://swapr.eth.limo/)                             |
 | OKCSwap    | [https://okbrpc.okx.com/oktc/swap](https://okbrpc.okx.com/oktc/swap)           |
 | JSwap      | [https://app.jswap.finance/#/swap](https://app.jswap.finance/#/swap)           |
-| Swapr      | [https://swapr.eth.limo/](https://swapr.eth.limo/)                             |
 | Voltage    | [https://app.voltage.finance/](https://app.voltage.finance/)                   |
-| Trisolaris | [https://www.trisolaris.io/#/swap](https://www.trisolaris.io/#/swap)           |
-| Wagyuswap  | [https://exchange.wagyuswap.app/swap](https://exchange.wagyuswap.app/swap)     |
 
 \
