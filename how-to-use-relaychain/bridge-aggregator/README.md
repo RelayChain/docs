@@ -1,10 +1,10 @@
 # Relay Aggregator
 
-The aggregator connects users with liquidity from top bridging protocols—at present, Synapse, Multichain, Celer, Stargate and Hop—and always selects the most economical path.
+The Relay Aggregator connects users with liquidity from top protocols—and always selects the most economical path.
 
 ### What does the Relay aggregator do?
 
-RelayChain’s aggregator finds and uses the optimal bridge path based on the token and chain selections using automated algorithms, resulting in cost and time savings for end users and thereby opening up new opportunities to trade, farm yield, and arbitrage. This path is identified and used automatically.
+Relay's aggregator finds and uses the optimal bridge path based on the token and chain selections using automated algorithms, resulting in cost and time savings for end users and thereby opening up new opportunities to trade, farm yield, and arbitrage. This path is identified and used automatically.
 
 ### How do I use the aggregator?
 
@@ -16,7 +16,7 @@ Once you’ve chosen your token and chain, the RelayChain UI will inform you whi
 
 ### How many chains and sources of liquidity does Relay access?
 
-Users have access to 25 chains, 15 bridges, and 28 exchanges. By utilizing these top bridges and exchanges, Relay can offer comprehensive access to various liquidity sources, providing users with a seamless and efficient trading experience. Below is a list of the bridges and exchanges that Relay can access:
+Users have access to 25 chains, 15 bridges, and 31 exchanges. By utilizing these top bridges and exchanges, Relay can offer comprehensive access to various liquidity sources, providing users with a seamless and efficient trading experience. Below is a list of the bridges and exchanges that Relay can access:
 
 ### Chains
 
