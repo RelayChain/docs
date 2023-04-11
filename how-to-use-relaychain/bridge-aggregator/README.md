@@ -47,11 +47,24 @@ Users have access to 25 chains, 17 bridges, and 28 exchanges. By utilizing these
 | Cronos          | [https://cronos.org/](https://cronos.org/)                                                   |
 | Ethereum        | [https://ethereum.org/en/](https://ethereum.org/en/)                                         |
 
-### Bridges&#x20;
+### Bridges
 
-| Hyphen   | [https://hyphen.biconomy.io/bridge](https://hyphen.biconomy.io/bridge) |
-| -------- | ---------------------------------------------------------------------- |
-| Optimism | on [relaychain.com](http://relaychain.com/)                            |
+| RelayChain    | [https://relaychain.com/](https://relaychain.com/)                         |
+| ------------- | -------------------------------------------------------------------------- |
+| Hop           | [https://hop.exchange/](https://hop.exchange/)                             |
+| Stargate      | [https://layerzero.network/](https://layerzero.network/)                   |
+| Celer         | [https://celer.network/](https://celer.network/)                           |
+| Synapse       | [https://synapseprotocol.com/](https://synapseprotocol.com/)               |
+| Multichain    | [https://multichain.org/](https://multichain.org/)                         |
+| Axelar        | [https://satellite.money/](https://satellite.money/)                       |
+| Hyphen        | [https://hyphen.biconomy.io/bridge](https://hyphen.biconomy.io/bridge)     |
+| Optimism      | [https://app.optimism.io/bridge](https://app.optimism.io/bridge)           |
+| Polygon       | [https://wallet.polygon.technology/](https://wallet.polygon.technology/)   |
+| Arbitrum      | [https://bridge.arbitrum.io/](https://bridge.arbitrum.io/)                 |
+| Across        | [https://across.to/](https://across.to/)                                   |
+| Omni Bridge   | [https://omni.gnosischain.com/bridge](https://omni.gnosischain.com/bridge) |
+| Gnosis Brdige | [https://bridge.gnosischain.com/](https://bridge.gnosischain.com/)         |
+| Connext       | [https://bridge.connext.network/](https://bridge.connext.network/)         |
 
 ### Exchanges
 
