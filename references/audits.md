@@ -6,7 +6,7 @@
 
 ### Zokyo
 
-__[_https://www.linkedin.com/posts/zokyo\_zeroexchange-smart-contract-audit-activity-6756174114521681920-81Jn/_](https://www.linkedin.com/posts/zokyo\_zeroexchange-smart-contract-audit-activity-6756174114521681920-81Jn/) __&#x20;
+[_https://www.linkedin.com/posts/zokyo\_zeroexchange-smart-contract-audit-activity-6756174114521681920-81Jn/_](https://www.linkedin.com/posts/zokyo\_zeroexchange-smart-contract-audit-activity-6756174114521681920-81Jn/)&#x20;
 
 ### TevPro&#x20;
 
