@@ -68,33 +68,36 @@ Users have access to 25 chains, 15 bridges, and 28 exchanges. By utilizing these
 
 ### Exchanges
 
-| 1inch      | [https://1inch.io/](https://1inch.io/)                                         |
-| ---------- | ------------------------------------------------------------------------------ |
-| sushiswap  | [https://www.sushi.com/](https://www.sushi.com/)                               |
-| paraswap   | [https://www.paraswap.io/](https://www.paraswap.io/)                           |
-| openocean  | [https://openocean.finance/](https://openocean.finance/)                       |
-| 0x         | [https://www.0x.org/](https://www.0x.org/)                                     |
-| dodo       | [https://dodoex.io/](https://dodoex.io/)                                       |
-| uniswapv2  | [https://uniswap.org/](https://uniswap.org/)                                   |
-| quickswap  | [https://quickswap.exchange/](https://quickswap.exchange/)                     |
-| honeyswap  | [https://honeyswap.org/](https://honeyswap.org/)                               |
-| pancake    | [https://pancakeswap.finance/](https://pancakeswap.finance/)                   |
-| solarbeam  | [https://solarbeam.io/](https://solarbeam.io/)                                 |
-| Wagyuswap  | [https://exchange.wagyuswap.app/swap](https://exchange.wagyuswap.app/swap)     |
-| spiritswap | [https://www.spiritswap.finance/](https://www.spiritswap.finance/)             |
-| soulswap   | [https://soulswap.finance/](https://soulswap.finance/)                         |
-| pangolin   | [https://www.pangolin.exchange/](https://www.pangolin.exchange/)               |
-| evmoswap   | [https://app.evmoswap.org/swap](https://app.evmoswap.org/swap)                 |
-| stellswap  | [https://stellaswap.com/](https://stellaswap.com/)                             |
-| beamswap   | [https://beamswap.io/](https://beamswap.io/)                                   |
-| ubeswap    | [https://ubeswap.org/](https://ubeswap.org/)                                   |
-| Trisolaris | [https://www.trisolaris.io/#/swap](https://www.trisolaris.io/#/swap)           |
-| cronaswap  | [https://app.cronaswap.org/en/swap](https://app.cronaswap.org/en/swap)         |
-| diffusion  | [https://app.diffusion.fi/#/swap](https://app.diffusion.fi/#/swap)             |
-| cronus     | [https://trading.cronusfinancexyz.com/](https://trading.cronusfinancexyz.com/) |
-| Swapr      | [https://swapr.eth.limo/](https://swapr.eth.limo/)                             |
-| OKCSwap    | [https://okbrpc.okx.com/oktc/swap](https://okbrpc.okx.com/oktc/swap)           |
-| JSwap      | [https://app.jswap.finance/#/swap](https://app.jswap.finance/#/swap)           |
-| Voltage    | [https://app.voltage.finance/](https://app.voltage.finance/)                   |
+| 1inch        | [https://1inch.io/](https://1inch.io/)                                         |
+| ------------ | ------------------------------------------------------------------------------ |
+| TraderJoe    | [https://traderjoexyz.com/avalanche](https://traderjoexyz.com/avalanche)       |
+| Sushiswap    | [https://www.sushi.com/](https://www.sushi.com/)                               |
+| SpookySwap   | [https://spooky.fi/#/swap](https://spooky.fi/#/swap)                           |
+| Curve        | [https://curve.fi/#/avalanche/](https://curve.fi/#/avalanche/swap)             |
+| Paraswap     | [https://www.paraswap.io/](https://www.paraswap.io/)                           |
+| Openocean    | [https://openocean.finance/](https://openocean.finance/)                       |
+| 0x           | [https://www.0x.org/](https://www.0x.org/)                                     |
+| Dodo         | [https://dodoex.io/](https://dodoex.io/)                                       |
+| Uniswapv2    | [https://uniswap.org/](https://uniswap.org/)                                   |
+| Quickswap    | [https://quickswap.exchange/](https://quickswap.exchange/)                     |
+| Honeyswap    | [https://honeyswap.org/](https://honeyswap.org/)                               |
+| Pancake Swap | [https://pancakeswap.finance/](https://pancakeswap.finance/)                   |
+| Solarbeam    | [https://solarbeam.io/](https://solarbeam.io/)                                 |
+| Wagyuswap    | [https://exchange.wagyuswap.app/swap](https://exchange.wagyuswap.app/swap)     |
+| Spiritswap   | [https://www.spiritswap.finance/](https://www.spiritswap.finance/)             |
+| Soulswap     | [https://soulswap.finance/](https://soulswap.finance/)                         |
+| Pangolin     | [https://www.pangolin.exchange/](https://www.pangolin.exchange/)               |
+| Evmoswap     | [https://app.evmoswap.org/swap](https://app.evmoswap.org/swap)                 |
+| Stellawap    | [https://stellaswap.com/](https://stellaswap.com/)                             |
+| Beamswap     | [https://beamswap.io/](https://beamswap.io/)                                   |
+| Ubeswap      | [https://ubeswap.org/](https://ubeswap.org/)                                   |
+| Trisolaris   | [https://www.trisolaris.io/#/swap](https://www.trisolaris.io/#/swap)           |
+| Cronaswap    | [https://app.cronaswap.org/en/swap](https://app.cronaswap.org/en/swap)         |
+| Diffusion    | [https://app.diffusion.fi/#/swap](https://app.diffusion.fi/#/swap)             |
+| Cronus       | [https://trading.cronusfinancexyz.com/](https://trading.cronusfinancexyz.com/) |
+| Swapr        | [https://swapr.eth.limo/](https://swapr.eth.limo/)                             |
+| OKCSwap      | [https://okbrpc.okx.com/oktc/swap](https://okbrpc.okx.com/oktc/swap)           |
+| JSwap        | [https://app.jswap.finance/#/swap](https://app.jswap.finance/#/swap)           |
+| Voltage      | [https://app.voltage.finance/](https://app.voltage.finance/)                   |
 
 \
