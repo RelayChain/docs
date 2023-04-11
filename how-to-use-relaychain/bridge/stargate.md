@@ -1,3 +1,0 @@
-# Stargate
-
-The Layerzero Stargate Bridge is a decentralized protocol built on top of the Cosmos SDK that enables the seamless transfer of digital assets and tokens between different blockchain networks. It uses the Inter-Blockchain Communication (IBC) protocol to enable secure and trustless cross-chain transactions, facilitating greater interoperability between different blockchain ecosystems. The LayerZero Stargate Bridge opens up new possibilities for decentralized finance (DeFi) applications and enables the creation of more complex and interoperable blockchain-based solutions. To learn more about the LayerZero Stargate Bridge, you can visit their website at [https://layerzero.network/](https://layerzero.network/).
