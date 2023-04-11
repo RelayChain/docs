@@ -78,7 +78,7 @@ Users have access to 25 chains, 15 bridges, and 28 exchanges. By utilizing these
 | Openocean    | [https://openocean.finance/](https://openocean.finance/)                       |
 | 0x           | [https://www.0x.org/](https://www.0x.org/)                                     |
 | Dodo         | [https://dodoex.io/](https://dodoex.io/)                                       |
-| Uniswapv2    | [https://uniswap.org/](https://uniswap.org/)                                   |
+| Uniswap      | [https://uniswap.org/](https://uniswap.org/)                                   |
 | Quickswap    | [https://quickswap.exchange/](https://quickswap.exchange/)                     |
 | Honeyswap    | [https://honeyswap.org/](https://honeyswap.org/)                               |
 | Pancake Swap | [https://pancakeswap.finance/](https://pancakeswap.finance/)                   |
