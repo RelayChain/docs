@@ -8,7 +8,7 @@
 * [🧙┃How to Use RelayChain](how-to-use-relaychain/README.md)
   * [Relay Aggregator](how-to-use-relaychain/bridge-aggregator/README.md)
   * [Bridge](how-to-use-relaychain/bridge.md)
-  * [Bridge & Swap](how-to-use-relaychain/bridge-and-swap.md)
+  * [Bridge & Swap](how-to-use-relaychain/bridge-and-swap/README.md)
   * [Stake Relay](how-to-use-relaychain/stake-relay.md)
 * [🚀┃Growth & Gamification](growth-and-gamification/README.md)
   * [Fees](growth-and-gamification/fees.md)
