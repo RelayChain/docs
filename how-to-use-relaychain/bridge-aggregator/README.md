@@ -16,7 +16,7 @@ Once you’ve chosen your token and chain, the RelayChain UI will inform you whi
 
 ### How many chains and sources of liquidity does Relay access?
 
-Users have access to 25 chains, 17 bridges, and 28 exchanges. By utilizing these top bridges and exchanges, Relay can offer comprehensive access to various liquidity sources, providing users with a seamless and efficient trading experience. Below is a list of the bridges and exchanges that Relay can access:
+Users have access to 25 chains, 15 bridges, and 28 exchanges. By utilizing these top bridges and exchanges, Relay can offer comprehensive access to various liquidity sources, providing users with a seamless and efficient trading experience. Below is a list of the bridges and exchanges that Relay can access:
 
 ### Chains
 
