@@ -48,4 +48,4 @@ The new v2 design also incorporated a bridge aggregator. The aggregator connects
 
 The RelayChain Bridge & Swap is a big step towards realizing RelayChain's vision of making decentralized finance accessible to everyone, regardless of their technical expertise. This innovative technology represents a significant advancement in cross-chain interoperability and is set to transform the way we exchange value in the blockchain ecosystem.
 
-Bridge & Swap connects users with liquidity from top bridging protocols—at present, Squid & Synapse—with a forthcoming solution provide directly by the RelayChain bridge. &#x20;
+Bridge & Swap connects users with liquidity from top bridging protocols—at present, LI.Fi, Squid and Synapse—with a forthcoming solution provide directly by the RelayChain bridge. &#x20;
