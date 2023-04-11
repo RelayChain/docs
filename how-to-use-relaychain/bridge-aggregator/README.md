@@ -1,18 +1,18 @@
 # Relay Aggregator
 
-The Relay Aggregator connects users with liquidity from top protocols—and always selects the most economical path.
+The Relay aggregator connects users with liquidity from top protocols—and always selects the most economical path.
 
 ### What does the Relay aggregator do?
 
-Relay's aggregator finds and uses the optimal bridge path based on the token and chain selections using automated algorithms, resulting in cost and time savings for end users and thereby opening up new opportunities to trade, farm yield, and arbitrage. This path is identified and used automatically.
+Relay's aggregator finds and uses the optimal route based on the token and chain selections using automated algorithms, resulting in cost and time savings for end users and thereby opening up new opportunities to trade, farm yield, and arbitrage. This path is identified and used automatically.
 
 ### How do I use the aggregator?
 
-All users conducting a bridge or bridge & swap transaction on RelayChain will automatically use the bridge aggregator; it is now built into Relay’s bridge user interface and is “always on.”
+All users conducting a bridge or bridge & swap transaction on RelayChain will automatically use the Relay aggregator; it is built into Relay’s user interface and is “always on.”
 
 ### Which route am I using when I execute a transaction on RelayChain?
 
-Once you’ve chosen your token and chain, the RelayChain UI will inform you which route will be used prior to your confirmation. Upon executing a successful transaction, the UI will record this information in your history tab.
+Once you’ve chosen your token and chain, the Relay user interface will inform you which route will be used prior to your confirmation. Upon executing a successful transaction, the UI will record this information in your history tab.
 
 ### How many chains and sources of liquidity does Relay access?
 
