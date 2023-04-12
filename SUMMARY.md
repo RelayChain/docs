@@ -23,3 +23,4 @@
 * [📑┃References](references/README.md)
   * [Audits](references/audits.md)
   * [Multisig](references/multisig.md)
+  * [Brand Assets](references/brand-assets.md)

@@ -14,7 +14,7 @@ All users conducting a bridge or bridge & swap transaction on RelayChain will au
 
 Once you’ve chosen your token and chain, the Relay user interface will inform you which route will be used prior to your confirmation. Upon executing a successful transaction, the UI will record this information in your history tab.
 
-### How many chains and sources of liquidity does Relay access?
+### How many chains and sources of liquidity does the aggregator access?
 
 Users have access to 25 chains, 15 bridges, and 31 exchanges. By utilizing these top bridges and exchanges, Relay can offer comprehensive access to various liquidity sources, providing users with a seamless and efficient trading experience. Below is a list of the bridges and exchanges that Relay can access:
 
