@@ -2,8 +2,8 @@
 
 RelayChain has launched an airdrop program, designed to reward our active and loyal users. There will be multiple seasons, each with its own unique twist and chances to win.
 
-To participate in Airdrop Season 1:
+Airdrop Season 1:
 
-* Use RelayChain - the more you use it, the more you can earn,
-* Share your unique referral code and receive bonuses when others use it, and
-* Hold veRELAY on Arbitrum to receive additional modifiers.
+* Bridge & Swap (65%) You must perform at least one transaction to qualify.&#x20;
+* Refer (10%) Refer a friend with your unique referral code! Each successful use counts!
+* veRELAY (25%) Accumulate veRELAY by staking and locking RELAY tokens!
