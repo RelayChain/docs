@@ -10,8 +10,6 @@ Claimed veRELAY tokens remain in that wallet until the user unstakes or unlocks 
 
 ### veRELAY Benefits
 
-Holding veRELAY affords several benefits to users:
+Holding veRELAY affords benefits to users:
 
-* Receive a share of protocol fees.
-* On Arbitrum, users gain an airdrop modifier and a share of future generated fees,
-* Obtain extra entries to the weekly lottery and access to airdrops, and more.
+* On Arbitrum, users gain an airdrop modifier for a share of rewards.

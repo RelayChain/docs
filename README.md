@@ -30,7 +30,7 @@ Users can also swap directly through the new UI.
 
 ### **The RELAY Token**
 
-The RELAY token is at the center of the project and holds multiple utilities that reward users. With the v2 staking contract, users can now obtain veRELAY by staking and locking RELAY tokens. Staking RELAY earns users a portion of protocol fees and qualifies for additional [Airdrop ](growth-and-gamification/airdrop-seasons.md)allocation.&#x20;
+The RELAY token is at the center of the project and holds multiple utilities that reward users. With the v2 staking contract, users can now obtain veRELAY by staking and locking RELAY tokens. Staking RELAY earns users a portion of protocol fees distributed through an interactive [Airdrop ](growth-and-gamification/airdrop-seasons.md)leaderboard.&#x20;
 
 ### **Innovations**
 
